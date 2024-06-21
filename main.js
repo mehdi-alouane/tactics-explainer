@@ -41,4 +41,4 @@ document.querySelector('#app').innerHTML = `
     </div>
 `
 
-formations(document.querySelector('#formations'))
+formations()

@@ -1,4 +1,4 @@
-export function formations(element) {
+export function formations() {
 
     const pitch = document.getElementById("pitch");
 const formationSelect = document.getElementById("formation");
